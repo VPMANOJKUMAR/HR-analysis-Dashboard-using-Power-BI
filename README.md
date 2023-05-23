@@ -6,7 +6,7 @@ In this Power BI project, the dataset for a software company called Atlas Labs w
 ## Project Description :
 
 
-+ Identified key fectors causing attrition.
++ Identified key factors causing attrition.
 + Found out which department has more attriton.
 + Found out which gender has more attrition rate.
 + Found out which age group has more attrition rate.
